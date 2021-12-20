@@ -35,7 +35,7 @@ Link to paper - https://www.nature.com/articles/s41592-019-0403-1
 
 Availability on 21 Dec - Open, anytime works!
 
-Shriya Mandarapu
-shmanda@iu.edu
-LinkedIn : https://www.linkedin.com/in/shriya-mandarapu/
+Shriya Mandarapu \
+shmanda@iu.edu \
+LinkedIn : https://www.linkedin.com/in/shriya-mandarapu/  \
 Graduate Student, Department of Data Science
